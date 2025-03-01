@@ -1,1 +1,1 @@
-# SQL
+This repository contains a collection of SQL projects, queries, and scripts covering various topics such as data manipulation, database design, performance optimization, and real-world case studies. It includes hands-on SQL solutions for tasks like data cleaning, aggregation, joins, subqueries, stored procedures, and more. Ideal for anyone looking to enhance their SQL skills through practical examples.
