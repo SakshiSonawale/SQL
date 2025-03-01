@@ -16,7 +16,7 @@ You've been asked to dig into the customer data to see which menu items are doin
 3. Use both tables to understand how customers are reacting to the new menu.
 
 ## 📂 Dataset Description:
-Refer to the restaurant_db_data_dictionary.
+Refer to the restaurant_db_data_dictionary.csv file.
 
 ## 🛠️ Tools & Technologies
 SQL (for querying and analysis) - MySQL (database management)
