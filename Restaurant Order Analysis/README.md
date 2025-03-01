@@ -1,3 +1,8 @@
+## Restaurant Orders Analysis
+
+## 📌 Project Overview
+This project focuses on analyzing customer order data from a restaurant that recently introduced a new menu at the beginning of the year. As a Data Analyst, the goal is to evaluate how customers are responding to the menu, identify top-performing and underperforming dishes, and uncover customer preferences.
+
 ## THE SITUATION:
 You've been hired as a DATA ANALYST for a restaurant that has diverse menu offerings and serves generous portions.
 
